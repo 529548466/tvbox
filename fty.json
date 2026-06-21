@@ -1,17 +1,6 @@
 {
-  "spider": "./fty.jar;md5;b3444be3e63f44aa5aad588183473bab",
+  "spider": "./fty.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  
-  "urls": [
-    {
-      "name": "🥈 P1-天天巧儿去广告源",
-      "url": "http://cdn.qiaoji8.com/tvbox.json"
-    },
-    {
-      "name": "🥉 P3-欧歌极速精简源",
-      "url": "http://tvbox.meitzy.top/"
-    }
-  ],
 
   "sites": [
     {
@@ -554,7 +543,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "name": "📚儿童┃启启蒙",
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
